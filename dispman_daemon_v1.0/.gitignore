@@ -1,0 +1,9 @@
+*.o
+*.a
+libtcchdmi.so
+libtcchdmi.so.*
+dispman_daemon
+libs/_o/
+libs/_a/
+
+Makefile.in
